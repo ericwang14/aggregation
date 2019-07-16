@@ -1,1 +1,5 @@
 aggregation/**
+build/**
+dist/**
+list_reaggration.egg-info/**
+**/__pycache__/**

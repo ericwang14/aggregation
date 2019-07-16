@@ -1,5 +1,5 @@
 #!/bin/python
 
-from couchbase import connection
+from db import connection
 
 connection.connect()
